@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/REVV-Rewards/static/css/main.43874c12.chunk.css",
+    "main.js": "/REVV-Rewards/static/js/main.ca191200.chunk.js",
+    "main.js.map": "/REVV-Rewards/static/js/main.ca191200.chunk.js.map",
+    "runtime-main.js": "/REVV-Rewards/static/js/runtime-main.9c4da446.js",
+    "runtime-main.js.map": "/REVV-Rewards/static/js/runtime-main.9c4da446.js.map",
+    "static/js/2.9660745f.chunk.js": "/REVV-Rewards/static/js/2.9660745f.chunk.js",
+    "static/js/2.9660745f.chunk.js.map": "/REVV-Rewards/static/js/2.9660745f.chunk.js.map",
+    "static/js/3.4e05bb2f.chunk.js": "/REVV-Rewards/static/js/3.4e05bb2f.chunk.js",
+    "static/js/3.4e05bb2f.chunk.js.map": "/REVV-Rewards/static/js/3.4e05bb2f.chunk.js.map",
+    "static/js/4.d6f651ef.chunk.js": "/REVV-Rewards/static/js/4.d6f651ef.chunk.js",
+    "static/js/4.d6f651ef.chunk.js.map": "/REVV-Rewards/static/js/4.d6f651ef.chunk.js.map",
+    "static/js/5.66984275.chunk.js": "/REVV-Rewards/static/js/5.66984275.chunk.js",
+    "static/js/5.66984275.chunk.js.map": "/REVV-Rewards/static/js/5.66984275.chunk.js.map",
+    "static/js/6.1e50bd5c.chunk.js": "/REVV-Rewards/static/js/6.1e50bd5c.chunk.js",
+    "static/js/6.1e50bd5c.chunk.js.map": "/REVV-Rewards/static/js/6.1e50bd5c.chunk.js.map",
+    "index.html": "/REVV-Rewards/index.html",
+    "static/css/main.43874c12.chunk.css.map": "/REVV-Rewards/static/css/main.43874c12.chunk.css.map",
+    "static/js/2.9660745f.chunk.js.LICENSE.txt": "/REVV-Rewards/static/js/2.9660745f.chunk.js.LICENSE.txt",
+    "static/js/3.4e05bb2f.chunk.js.LICENSE.txt": "/REVV-Rewards/static/js/3.4e05bb2f.chunk.js.LICENSE.txt",
+    "static/js/4.d6f651ef.chunk.js.LICENSE.txt": "/REVV-Rewards/static/js/4.d6f651ef.chunk.js.LICENSE.txt",
+    "static/js/5.66984275.chunk.js.LICENSE.txt": "/REVV-Rewards/static/js/5.66984275.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c4da446.js",
+    "static/js/2.9660745f.chunk.js",
+    "static/css/main.43874c12.chunk.css",
+    "static/js/main.ca191200.chunk.js"
+  ]
+}
