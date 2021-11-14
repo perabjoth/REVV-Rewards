@@ -13,8 +13,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <Container component="main">
         <CssBaseline />
-        
-        <h1>Leaderabord has moved to the REVV Suite:</h1>
+        <h1>Rewards has moved to the REVV Suite:</h1>
         <h2><a href="https://perabjoth.github.io/REVV-Suite/#/Rewards" style={{color: 'red'}}>https://perabjoth.github.io/REVV-Suite/#/Rewards</a></h2>
       </Container>
     </ThemeProvider>
