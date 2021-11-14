@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/REVV-Rewards/static/css/main.43874c12.chunk.css",
-    "main.js": "/REVV-Rewards/static/js/main.86e2dfcf.chunk.js",
-    "main.js.map": "/REVV-Rewards/static/js/main.86e2dfcf.chunk.js.map",
+    "main.js": "/REVV-Rewards/static/js/main.fb2bd8b1.chunk.js",
+    "main.js.map": "/REVV-Rewards/static/js/main.fb2bd8b1.chunk.js.map",
     "runtime-main.js": "/REVV-Rewards/static/js/runtime-main.3c6d8f8b.js",
     "runtime-main.js.map": "/REVV-Rewards/static/js/runtime-main.3c6d8f8b.js.map",
     "static/js/2.a374fb9e.chunk.js": "/REVV-Rewards/static/js/2.a374fb9e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c6d8f8b.js",
     "static/js/2.a374fb9e.chunk.js",
     "static/css/main.43874c12.chunk.css",
-    "static/js/main.86e2dfcf.chunk.js"
+    "static/js/main.fb2bd8b1.chunk.js"
   ]
 }
