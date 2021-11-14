@@ -1,11 +1,10 @@
 import './App.css';
-import { ThemeProvider, createTheme } from '@material-ui/core/styles';
-import CssBaseline from '@material-ui/core/CssBaseline';
-import { Container } from '@material-ui/core';
-import Transactions from './components/Transactions';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
+import Container from '@mui/material/Container';
 const theme = createTheme({
   palette: {
-    type: "dark",
+    mode: "dark",
   }
 });
 
@@ -14,7 +13,9 @@ function App() {
     <ThemeProvider theme={theme}>
       <Container component="main">
         <CssBaseline />
-        <Transactions />
+        
+        <h1>Leaderabord has moved to the REVV Suite:</h1>
+        <h2><a href="https://perabjoth.github.io/REVV-Suite/#/Rewards" style={{color: 'red'}}>https://perabjoth.github.io/REVV-Suite/#/Rewards</a></h2>
       </Container>
     </ThemeProvider>
   );
